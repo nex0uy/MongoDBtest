@@ -1,0 +1,12 @@
+/Users/nexo/Projects/Parte2TareaBD/4- Models/bin/Debug/net7.0/4- Models.deps.json
+/Users/nexo/Projects/Parte2TareaBD/4- Models/bin/Debug/net7.0/4- Models.dll
+/Users/nexo/Projects/Parte2TareaBD/4- Models/bin/Debug/net7.0/4- Models.pdb
+/Users/nexo/Projects/Parte2TareaBD/4- Models/obj/Debug/net7.0/4- Models.csproj.AssemblyReference.cache
+/Users/nexo/Projects/Parte2TareaBD/4- Models/obj/Debug/net7.0/4- Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nexo/Projects/Parte2TareaBD/4- Models/obj/Debug/net7.0/4- Models.AssemblyInfoInputs.cache
+/Users/nexo/Projects/Parte2TareaBD/4- Models/obj/Debug/net7.0/4- Models.AssemblyInfo.cs
+/Users/nexo/Projects/Parte2TareaBD/4- Models/obj/Debug/net7.0/4- Models.csproj.CoreCompileInputs.cache
+/Users/nexo/Projects/Parte2TareaBD/4- Models/obj/Debug/net7.0/4- Models.dll
+/Users/nexo/Projects/Parte2TareaBD/4- Models/obj/Debug/net7.0/refint/4- Models.dll
+/Users/nexo/Projects/Parte2TareaBD/4- Models/obj/Debug/net7.0/4- Models.pdb
+/Users/nexo/Projects/Parte2TareaBD/4- Models/obj/Debug/net7.0/ref/4- Models.dll

@@ -1,0 +1,17 @@
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/bin/Debug/net7.0/2- BusinessLogic.deps.json
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/bin/Debug/net7.0/2- BusinessLogic.dll
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/bin/Debug/net7.0/2- BusinessLogic.pdb
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/bin/Debug/net7.0/3- DataAccess.dll
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/bin/Debug/net7.0/3- DataAccess.pdb
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/obj/Debug/net7.0/2- BusinessLogic.csproj.AssemblyReference.cache
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/obj/Debug/net7.0/2- BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/obj/Debug/net7.0/2- BusinessLogic.AssemblyInfoInputs.cache
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/obj/Debug/net7.0/2- BusinessLogic.AssemblyInfo.cs
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/obj/Debug/net7.0/2- BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/obj/Debug/net7.0/2- BusinessLogic.csproj.CopyComplete
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/obj/Debug/net7.0/2- BusinessLogic.dll
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/obj/Debug/net7.0/refint/2- BusinessLogic.dll
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/obj/Debug/net7.0/2- BusinessLogic.pdb
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/obj/Debug/net7.0/ref/2- BusinessLogic.dll
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/bin/Debug/net7.0/4- Models.dll
+/Users/nexo/Projects/Parte2TareaBD/2- BusinessLogic/bin/Debug/net7.0/4- Models.pdb

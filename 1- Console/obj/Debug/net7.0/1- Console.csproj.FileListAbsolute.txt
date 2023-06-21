@@ -1,0 +1,36 @@
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/1- Console
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/1- Console.deps.json
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/1- Console.runtimeconfig.json
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/1- Console.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/1- Console.pdb
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/1- Console.csproj.AssemblyReference.cache
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/1- Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/1- Console.AssemblyInfoInputs.cache
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/1- Console.AssemblyInfo.cs
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/1- Console.csproj.CoreCompileInputs.cache
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/1- Console.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/refint/1- Console.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/1- Console.pdb
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/1- Console.genruntimeconfig.cache
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/ref/1- Console.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/DnsClient.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/SharpCompress.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/Snappier.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/ZstdSharp.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/2- BusinessLogic.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/3- DataAccess.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/2- BusinessLogic.pdb
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/3- DataAccess.pdb
+/Users/nexo/Projects/Parte2TareaBD/1- Console/obj/Debug/net7.0/1- Console.csproj.CopyComplete
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/4- Models.dll
+/Users/nexo/Projects/Parte2TareaBD/1- Console/bin/Debug/net7.0/4- Models.pdb

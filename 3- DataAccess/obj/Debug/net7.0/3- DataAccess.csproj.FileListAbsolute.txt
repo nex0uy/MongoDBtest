@@ -1,0 +1,15 @@
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/bin/Debug/net7.0/3- DataAccess.deps.json
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/bin/Debug/net7.0/3- DataAccess.dll
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/bin/Debug/net7.0/3- DataAccess.pdb
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/obj/Debug/net7.0/3- DataAccess.csproj.AssemblyReference.cache
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/obj/Debug/net7.0/3- DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/obj/Debug/net7.0/3- DataAccess.AssemblyInfoInputs.cache
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/obj/Debug/net7.0/3- DataAccess.AssemblyInfo.cs
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/obj/Debug/net7.0/3- DataAccess.csproj.CoreCompileInputs.cache
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/obj/Debug/net7.0/3- DataAccess.dll
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/obj/Debug/net7.0/refint/3- DataAccess.dll
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/obj/Debug/net7.0/3- DataAccess.pdb
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/obj/Debug/net7.0/ref/3- DataAccess.dll
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/bin/Debug/net7.0/4- Models.dll
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/bin/Debug/net7.0/4- Models.pdb
+/Users/nexo/Projects/Parte2TareaBD/3- DataAccess/obj/Debug/net7.0/3- DataAccess.csproj.CopyComplete
